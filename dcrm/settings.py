@@ -13,7 +13,7 @@ SECRET_KEY = 'django-insecure-st81m#fh@wqjaco3^*ij4o%e5yp&zm7vvda^&vqsz=ig4wq89k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['allanaonline.pythonanywhere.com']
+ALLOWED_HOSTS = ['allanaonline.mysql.pythonanywhere-services.com']
 
 
 # Application definition
